@@ -73,10 +73,10 @@ _start:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=2563eb&text_color=374151&icon_color=2563eb)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mikita-ala&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=2563eb&text_color=374151&icon_color=2563eb)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=2563eb&text_color=374151)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikita-ala&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=2563eb&text_color=374151)
 
 ---
 
-⭐ From [Mikita](https://github.com/YOUR_USERNAME)
+⭐ From [Mikita](https://github.com/Mikita-ala)
