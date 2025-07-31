@@ -1,5 +1,7 @@
 # Hi there! 👋 I'm Mikita
 
+This is not the main profile, but is dedicated only to Go development.
+
 ## ⚡ About Me
 
 Software Engineer with a background in Applied Computer Science and extensive experience in low-level industrial software development. Currently building scalable solutions using modern tech stack: Go, microservices, message queues, and cloud infrastructure. Previously developed computer vision systems for precision instruments used in nuclear reactors and submarines.
