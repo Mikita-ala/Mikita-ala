@@ -58,15 +58,6 @@ _start:
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-## 📈 Currently Learning & Goals
-
-- 🌐 **Web Development**: Transitioning into modern web technologies and distributed systems
-- ⚡ **Concurrency & Performance**: Deep diving into high-performance concurrent programming
-- 🏗️ **Backend Architecture**: Building robust, scalable microservices architectures
-- 💳 **FinTech & Banking**: Exploring financial technology solutions and payment systems
-- 🔐 **Security Systems**: Developing secure proxy servers, VPN solutions, and enterprise-grade information systems
-- 📊 **Trading Systems**: Interest in algorithmic trading and real-time financial data processing
-
 ## 📬 Let's Connect
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:batnikov@internet.ru)
@@ -77,7 +68,3 @@ _start:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mikita-ala&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=2563eb&text_color=374151&icon_color=2563eb)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikita-ala&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=2563eb&text_color=374151)
-
----
-
-⭐ From [Mikita](https://github.com/Mikita-ala)
